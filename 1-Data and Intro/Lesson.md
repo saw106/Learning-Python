@@ -8,6 +8,7 @@ Since all data looks the same, just tons of 0(low voltage) and 1(high voltage), 
 
 ## Numbers
 Like decimal, binary counts up from 0 but only has one other digit. In our example 4 bit computer, a number can be any of the following:
+
 |Binary|Decimal|
 |---|---|
 |0000|0|
@@ -35,6 +36,7 @@ Numbers have a few variations that aren't relevant in the Python language, but t
 Everything you'd see in text is a character. The alphabet, numbers, punctuation, even emoji. Lists of characters are called strings and are most often shown with quotes around then `"like this"`.
 
 In our example 4 bit computer, the first characters are the number digits, followed by the part of the alphabet we support:
+
 |Binary|Character|
 |---|---|
 |0000|0|
